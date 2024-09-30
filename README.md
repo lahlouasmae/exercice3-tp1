@@ -47,3 +47,7 @@ L'interface utilisateur est définie dans un fichier XML, qui comprend :
 1. Sélectionnez les réponses aux questions via les cases à cocher et les boutons radio.
 2. Cliquez sur **Suivant** pour voir les réponses sélectionnées dans une nouvelle activité.
 3. Cliquez sur **Quitter** pour fermer l'application.
+
+## Videos descriptifs
+[EXO3.webm](https://github.com/user-attachments/assets/1f225502-0095-411a-9200-aab1a6286ed0)
+[EXO3p2.webm](https://github.com/user-attachments/assets/d65eb3a4-da70-4345-bc3b-6d85fed973f7)
